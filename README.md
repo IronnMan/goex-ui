@@ -1,21 +1,9 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/11247099/140462375-7b7ac4db-35b7-453c-8a05-13d8d20282c4.png" width="600"/>
-</p>
+<h1 align="center">
+Goex ui
+</h1><br>
 
-<h2 align="center">
-<a href="https://github.com/antfu/vitesse">Vitesse</a> for Nuxt 3
-</h2><br>
 
-<pre align="center">
-🧪 Working in Progress
-</pre>
 
-<p align="center">
-<br>
-<a href="https://vitesse-nuxt3.netlify.app/">🖥 Online Preview</a>
-<br><br>
-<a href="https://stackblitz.com/github/antfu/vitesse-nuxt3"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
-</p>
 
 ## Features
 
@@ -61,13 +49,6 @@ We recommend using [VS Code](https://code.visualstudio.com/) with [Volar](https:
 
 ## Try it now!
 
-### Online
-
-<a href="https://stackblitz.com/github/antfu/vitesse-nuxt3"><img src="https://developer.stackblitz.com/img/open_in_stackblitz.svg" alt=""></a>
-
-### GitHub Template
-
-[Create a repo from this template on GitHub](https://github.com/antfu/vitesse-nuxt3/generate).
 
 ### Clone to local
 
