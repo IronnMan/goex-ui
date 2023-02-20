@@ -1,0 +1,24 @@
+{
+  "prettier.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.css": "postcss"
+  },
+  "editor.formatOnSave": false,
+  "cSpell.words": [
+    "antfu",
+    "Attributify",
+    "headlessui",
+    "iconify",
+    "intlify",
+    "nuxi",
+    "nuxt",
+    "nuxtjs",
+    "pinia",
+    "pnpm",
+    "unocss",
+    "vueuse"
+  ]
+}
